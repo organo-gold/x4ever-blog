@@ -1,0 +1,30 @@
+{
+  "name": "x4ever-blog",
+  "version": "1.0.0",
+  "description": "Hosting node.js application on IIS server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/organo-gold/x4ever-blog.git"
+  },
+  "keywords": [
+    "Hosting",
+    "node.js",
+    "application",
+    "on",
+    "IIS",
+    "Server"
+  ],
+  "author": "Gurpreet Deol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/organo-gold/x4ever-blog/issues"
+  },
+  "homepage": "https://github.com/organo-gold/x4ever-blog#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
